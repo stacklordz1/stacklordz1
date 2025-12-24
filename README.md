@@ -1,6 +1,6 @@
 # Hi, I'm Festus 👋
 
-🚀 Upcoming Full Stack Developer  
+🚀 Aspiring Full Stack Developer  
 💻 I build modern, responsive web applications  
 🌱 Currently improving my React, backend, and full stack skills  
 
@@ -28,6 +28,7 @@
 ### Tools
 - Git & GitHub
 - VS Code
+- vite
 
 ---
 
