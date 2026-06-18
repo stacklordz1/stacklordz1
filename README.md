@@ -154,15 +154,7 @@ const festus = {
 
 ---
 
-## Trophy Cabinet
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=stacklordz1&theme=onedark&row=1&column=7" />
-
-</div>
-
----
 
 ## Contribution Graph
 
@@ -178,13 +170,10 @@ const festus = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stacklordz1/stacklordz1/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/stacklordz1/stacklordz1/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<sub>This animated snake eats your contribution graph — it needs a one-time GitHub Action setup. See the note below.</sub>
 
 </div>
-
-> **Setup note:** the snake animation above requires adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly like your username (`stacklordz1/stacklordz1`). Once the workflow runs once, the image will appear automatically.
 
 ---
 
@@ -197,22 +186,6 @@ const festus = {
 </div>
 
 ---
-
-## Support My Work
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/stacklordz">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://github.com/sponsors/stacklordz1">
-<img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:0ea5e9,100:0f172a" />
