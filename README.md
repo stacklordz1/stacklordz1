@@ -34,7 +34,7 @@ Building modern web applications and documenting my journey in tech.
 
 ## About Me
 
-I'm **Festus**, an aspiring full-stack developer passionate about creating web applications that are both functional and visually engaging.
+I'm **Festus**, an aspiring full-stack developer passionate about solving problems, creating web applications that are both functional and visually engaging.
 
 - Building projects with **React, Tailwind CSS, Node.js, and MongoDB**
 - Learning through real-world projects and challenges
@@ -54,21 +54,11 @@ const festus = {
 
 - [x] Building real-world full-stack projects
 - [x] Improving UI/UX design skills
-- [ ] Learning backend development with Node.js
+- [x] Learning backend development with Node.js
 - [ ] Growing my personal brand in tech
 - [ ] Becoming a professional software developer
 
----
 
-## Currently Learning
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-In%20Progress-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
 
 ---
 
@@ -117,6 +107,7 @@ const festus = {
 ### Backend & Database
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -132,7 +123,6 @@ const festus = {
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </div>
 
