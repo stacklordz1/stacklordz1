@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:38bdf8,50:0ea5e9,100:0f172a&text=Festus%20(Stacklordz)&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Turning%20Ideas%20Into%20Products%20With%20Code&descAlignY=55" />
@@ -15,6 +14,20 @@ Building modern web applications and documenting my journey in tech.
 
 <img src="https://komarev.com/ghpvc/?username=stacklordz1&label=Profile+Views&color=38BDF8&style=for-the-badge" />
 
+<a href="https://github.com/stacklordz1?tab=followers">
+<img src="https://img.shields.io/github/followers/stacklordz1?label=Followers&style=for-the-badge&color=38BDF8" />
+</a>
+
+</div>
+
+---
+
+## A Quote To Code By
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 </div>
 
 ---
@@ -28,13 +41,22 @@ I'm **Festus**, an aspiring full-stack developer passionate about creating web a
 - Interested in frontend engineering, backend systems, and product development
 - Sharing my development journey while continuously improving my skills
 
+```javascript
+const festus = {
+  role: "Aspiring Full-Stack Developer",
+  stack: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
+  currentlyLearning: "Backend Development with Node.js",
+  funFact: "I turn ideas into products, one commit at a time 🚀",
+};
+```
+
 ### What I'm Focused On
 
-- Building real-world full-stack projects
-- Improving UI/UX design skills
-- Learning backend development with Node.js
-- Growing my personal brand in tech
-- Becoming a professional software developer
+- [x] Building real-world full-stack projects
+- [x] Improving UI/UX design skills
+- [ ] Learning backend development with Node.js
+- [ ] Growing my personal brand in tech
+- [ ] Becoming a professional software developer
 
 ---
 
@@ -132,6 +154,16 @@ I'm **Festus**, an aspiring full-stack developer passionate about creating web a
 
 ---
 
+## Trophy Cabinet
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=stacklordz1&theme=onedark&row=1&column=7" />
+
+</div>
+
+---
+
 ## Contribution Graph
 
 <div align="center">
@@ -139,6 +171,20 @@ I'm **Festus**, an aspiring full-stack developer passionate about creating web a
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=stacklordz1&theme=react-dark&hide_border=true"/>
 
 </div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/stacklordz1/stacklordz1/output/github-contribution-grid-snake.svg" />
+
+<sub>This animated snake eats your contribution graph — it needs a one-time GitHub Action setup. See the note below.</sub>
+
+</div>
+
+> **Setup note:** the snake animation above requires adding the [Platane/snk](https://github.com/Platane/snk) GitHub Action to a repo named exactly like your username (`stacklordz1/stacklordz1`). Once the workflow runs once, the image will appear automatically.
 
 ---
 
@@ -152,9 +198,23 @@ I'm **Festus**, an aspiring full-stack developer passionate about creating web a
 
 ---
 
+## Support My Work
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/stacklordz">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://github.com/sponsors/stacklordz1">
+<img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:0ea5e9,100:0f172a" />
 
 </div>
-
